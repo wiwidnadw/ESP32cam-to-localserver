@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "Wiwid";
-const char* password = "Wiwid1230";
+const char* ssid = "your ssid wifi network";
+const char* password = "password";
 
 void startCameraServer();
 
