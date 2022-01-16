@@ -3,6 +3,8 @@ Send photo from ESP32cam, into local server which generate by php language
 
 app_httpd.cpp, camera_index.h, camera_pins.h, esp32_sendimage_local_pc.ino are arduino program file so let them 1 package
 
+and savetopc.php is php file for ur local server, so locate that file on ur server address
+
 this program make ur esp32cam can send data (photo) into local server
 
 Photo which sent is photo captured when u push "get still" button on interface
