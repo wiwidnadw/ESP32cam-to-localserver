@@ -39,7 +39,7 @@
 
 
 int ledpin1 = 15;
-const char *servername = "http://192.168.1.6/esp32topc/savetopc.php";
+const char *servername = "your server address";
 const char *postdata = "&esp32capture";
 String content;
 int ref_x = 110;
