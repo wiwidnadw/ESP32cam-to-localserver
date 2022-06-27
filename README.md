@@ -13,9 +13,9 @@ I try this project with 5VDC rating on esp32cam
 
 for tutorial, visit my youtube channel : digitalneering
 
-part 1 tutorial : https://youtu.be/7LyxOPPs7k8
+part 1 tutorial : https://youtu.be/mIe2ZErN3sc
 
-part 2 tutorial : https://youtu.be/Wi_mdLmhmZ4
+part 2 tutorial : https://youtu.be/BtYdotmjxC8
 
 to support this account, dont forget to subscribe my YouTube channel, also share to ur fried if u like my video
 Thank you, enjoy programming
