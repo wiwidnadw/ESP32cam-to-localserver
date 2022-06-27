@@ -1,4 +1,4 @@
-# ESP32cam-to-localserver
+# ESP32cam-to-localserver-and-internet
 Send photo from ESP32cam, into local server which generate by php language
 
 app_httpd.cpp, camera_index.h, camera_pins.h, esp32_sendimage_local_pc.ino are arduino program file so let them 1 package
